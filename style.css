@@ -1,4 +1,11 @@
+
+body {
+	font-size: 14px;
+}
+
 h1 {
+	height: 44px;
+	line-height: 44px;
 	text-align: center;
 	color: red;
 }
